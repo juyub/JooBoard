@@ -13,3 +13,6 @@
 
 - 댓글 목록 및 작성 기능 <br>
 <img src="https://github.com/juyub/JooBoard/assets/126839881/453ebaa6-94a5-417d-8647-ef87b98df3b3" width="500" /> <br>
+
+- 보완점 <br>
+회원 기능 미구현, 글의 비밀번호 기능 미구현
