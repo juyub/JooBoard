@@ -1,6 +1,6 @@
 # [Spring] JooBoard
 
-<img src="https://github.com/juyub/JooBoard/assets/126839881/bc5464a8-803b-438f-bb4f-9122aa12d162" width="500" /> <br>
+<img src="https://github.com/juyub/JooBoard/assets/126839881/5305e552-f938-4b10-ac08-d3ccfa49b50a" width="500" /> <br>
 
 - 구성 및 workflow <br>
 <img src="https://github.com/juyub/JooBoard/assets/126839881/308f51c3-c59c-475f-93a0-c2926c1a5483" width="500" /> <br>
