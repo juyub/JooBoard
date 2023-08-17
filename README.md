@@ -1,8 +1,7 @@
-# [Spring] JooBoard
-
-<img src="https://github.com/juyub/JooBoard/assets/126839881/5305e552-f938-4b10-ac08-d3ccfa49b50a" width="500" /> <br>
+# 게시판
 
 <img src="https://github.com/juyub/JooBoard/assets/126839881/860c7d82-574d-46e0-882d-fa580bb7d231" /> <br>
+
 - 구성 및 workflow <br>
 <img src="https://github.com/juyub/JooBoard/assets/126839881/308f51c3-c59c-475f-93a0-c2926c1a5483" width="500" /> <br>
 
@@ -15,5 +14,3 @@
 - 댓글 목록 및 작성 기능 <br>
 <img src="https://github.com/juyub/JooBoard/assets/126839881/453ebaa6-94a5-417d-8647-ef87b98df3b3" width="500" /> <br>
 
-- 보완점 <br>
-회원 기능 미구현, 글의 비밀번호 기능 미구현
